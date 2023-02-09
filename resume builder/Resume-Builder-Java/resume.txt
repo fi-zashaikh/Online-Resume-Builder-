@@ -1,0 +1,27 @@
+     ********** Personal Information **********     
+Fullname: Pranav
+Surname: Sakore
+Address: Dighi Road ,Pune
+Dighi road , Pune
+
+ Pincode: 411001
+Nationality: Indian
+DOB: 5/4/2003
+Phone No.: 8975300274
+Email: pranavsakore84@gmail.com
+     ********** Skills **********     
+Category: Technical
+DescriptionJAVA programming
+Category: Soft skill
+Descriptionleadershinp
+Category: soft skill
+Description: communication skill
+     ********** Qualifications **********     
+College/University: 
+School: 
+Other: 
+     ********** Work Experience **********     
+Company: MESCOE
+Designation: CR
+Company: MESCOE123
+Designation: CEO
